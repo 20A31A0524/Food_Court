@@ -1,0 +1,75 @@
+.bannerBgImage{
+    height: 100vh;
+    background: url("/images/BannerImage.jpg");
+    background-size: cover;
+    position: relative;
+}
+
+.imgs{
+    display:inline block;
+    width:150px;
+    height:190px;
+}
+.img{
+    width:350px;
+    height:570px;
+}
+.content {
+    position: relative;
+    padding: 20px; /* Add padding to create some space around the content */
+}
+.services
+{
+    margin-bottom: 0%;
+    padding: 0px;
+}
+
+.right-corner-image {
+    position: absolute;
+    top: 10;
+    right: 100px;
+    max-width: 700px; /* Adjust the width of the image as needed */
+    height: 700px; /* Maintain aspect ratio */
+}
+
+.bannerText{
+    text-align:left;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform:translate(-50%,-50%);
+    color:white;
+    font-family:"Lobster",serif;
+}
+.bannerTitle{
+    font-size: 4rem;
+
+}
+.bannerDesc{
+    font-size:2rem;
+}
+.about
+{
+    font-size:20px;
+
+}
+.card{
+    cursor:pointer;
+}
+
+.card:hover{
+    background-color: #808080;
+    border:2px solid #000000;
+}
+.card-img-top{
+    height:50vh;
+
+}
+.fa {
+    padding: 2px;
+    font-size: 300px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 1000%;
+  }
