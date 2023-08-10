@@ -3,7 +3,7 @@ This is a web based application developed for a Restaurant
 ###This is web based restaurant(food items) application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft,Future Skills Prime,Quess,Github and EY.
 
 **Project Link**-https://white-island-0357fb500.3.azurestaticapps.net
-**project demo video link**-
+**project demo video link**-https://youtu.be/9UHeQS3f6JY
 
 ##Features and Functionalities
 
@@ -33,7 +33,7 @@ Contact
 Chatbot
 <img width="954" alt="Screenshot 2023-08-10 112316" src="https://github.com/20A31A0524/Food_Court/assets/109936379/952b87b1-44ae-431c-9c6d-0c90ea515095">
 
-**Tech Stack:
+**Tech Stack**:
 Azure(Hosting),
 HTML,
 CSS,
