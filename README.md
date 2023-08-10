@@ -33,11 +33,11 @@ Contact
 Chatbot
 <img width="954" alt="Screenshot 2023-08-10 112316" src="https://github.com/20A31A0524/Food_Court/assets/109936379/952b87b1-44ae-431c-9c6d-0c90ea515095">
 
-**Tech Stack
--Azure(Hosting)
--HTML
--CSS
--Bootstrap
+**Tech Stack:
+Azure(Hosting),
+HTML,
+CSS,
+Bootstrap.
 
 
 
